@@ -3,4 +3,13 @@ header {
     color: #fff;
     text-align: center;
     padding: 20px;
+    margin: 5px;
+}
+
+div p a {
+    color: #000
+}
+
+div p a:hover {
+    color: #000fff
 }
